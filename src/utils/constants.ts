@@ -51,6 +51,14 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     wsteth: NOT_SUPPORTED_ON_CHAIN,
     creationBlock: 35176052,
   },
+  //BNB Testnet
+  [97]: {
+    router: '0xcd4f2884F0596024e9fdFCb317C3D634C8aF8c22',
+    weth: '0x4054402E8FaF7D6e194be714970646dc661AabC5',
+    steth: NOT_SUPPORTED_ON_CHAIN,
+    wsteth: NOT_SUPPORTED_ON_CHAIN,
+    creationBlock: 35176052,
+  },
   //optimism
   [10]: {
     router: '0xeC8B0F7Ffe3ae75d7FfAb09429e3675bb63503e4',
