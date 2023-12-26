@@ -53,7 +53,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   //BNB Testnet
   [97]: {
-    router: '0xcd4f2884F0596024e9fdFCb317C3D634C8aF8c22',
+    router: '0x0De1384F7bAe70922BcFd2aF32AdAF3686827625',
     weth: '0x9f3f5b8A8557DEB336C768F04c0C9eEBB7016980',
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
